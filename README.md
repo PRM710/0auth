@@ -11,6 +11,9 @@ Ensure that you have the following installed:
 
 ## Setup Instructions
 
+THE ENV FILE SHOULD BE IN BOTH THE FOLDERS ("Backdend" and "Frontend").
+*I WILL BE PROVIDING THE DRIVE LINK FOR THE ENV FILE*
+
 ### 1. Backend Setup
 
 1. Navigate to the backend folder:
